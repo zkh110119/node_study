@@ -1,0 +1,25 @@
+{
+  "name": "Rimraf",
+  "version": "1.0.0",
+  "description": "node.js删除文件/目录的包 rimraf",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkh110119/node_study.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkh110119/node_study/issues"
+  },
+  "homepage": "https://github.com/zkh110119/node_study#readme",
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
