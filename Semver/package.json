@@ -1,0 +1,26 @@
+{
+  "name": "semver_s",
+  "version": "1.0.0",
+  "description": "版本比较工具 semver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkh110119/node_study.git"
+  },
+  "keywords": [
+    "node.js",
+    "semver"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkh110119/node_study/issues"
+  },
+  "homepage": "https://github.com/zkh110119/node_study#readme",
+  "devDependencies": {
+    "semver": "^7.3.4"
+  }
+}
