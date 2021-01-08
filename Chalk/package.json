@@ -1,0 +1,25 @@
+{
+  "name": "chalk_s",
+  "version": "1.0.0",
+  "description": "日志打印特殊样式 chalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkh110119/node_study.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkh110119/node_study/issues"
+  },
+  "homepage": "https://github.com/zkh110119/node_study#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0"
+  }
+}
