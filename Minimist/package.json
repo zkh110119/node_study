@@ -1,0 +1,22 @@
+{
+  "name": "minimist_s",
+  "version": "1.0.0",
+  "description": "获取命令行参数的包 minimist",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkh110119/node_study.git"
+  },
+  "keywords": [
+    "node.js",
+    "minimist"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "devDependencies": {
+    "minimist": "^1.2.5"
+  }
+}
