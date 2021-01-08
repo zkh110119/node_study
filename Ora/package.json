@@ -1,0 +1,22 @@
+{
+  "name": "ora_s",
+  "version": "1.0.0",
+  "description": "Ora文档传送器",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkh110119/node_study.git"
+  },
+  "keywords": [
+    "node.js",
+    "ora"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "devDependencies": {
+    "ora": "^5.2.0"
+  }
+}
