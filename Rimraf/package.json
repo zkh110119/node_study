@@ -1,5 +1,5 @@
 {
-  "name": "Rimraf",
+  "name": "rimraf",
   "version": "1.0.0",
   "description": "node.js删除文件/目录的包 rimraf",
   "main": "index.js",
