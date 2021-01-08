@@ -1,0 +1,26 @@
+{
+  "name": "browserify_s",
+  "version": "1.0.0",
+  "description": "模块捆绑工具 browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkh110119/node_study.git"
+  },
+  "keywords": [
+    "node.js",
+    "browserify"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkh110119/node_study/issues"
+  },
+  "homepage": "https://github.com/zkh110119/node_study#readme",
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}
